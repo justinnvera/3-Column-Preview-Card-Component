@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor](https://your-solution-url.com)
-- Live Site URL: [Vercel](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-/hub/3-column-preview-card-component-css-flexbox-L1cKFwDzsj)
+- Live Site URL: [Vercel](https://3-column-preview-card-component-omega-seven.vercel.app)
 
 ## My process
 
