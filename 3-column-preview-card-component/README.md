@@ -87,7 +87,7 @@ I learned how to fix the problem of the `<button>` element being uneven with the
 
 ### Continued development
 
-I want to learn how to better design my `@media` queries since I feel that I could be doing something better but don't know what. There's a lot of copy + pasting and repetitive actions I perform such as adjusting the `height` and `width` of elements for every `@media` query. From my experience, if you do the same thing multiple times, there is a better and faster way to do it. I'm wondering if that's the case here. Let me know your thoughts. Other than that, the layout of the HTML and CSS went pretty smooth as there are no complicated multi-layout design. The problem came mostly from the uneven `<button>` alignment.
+I want to learn how to design my @media queries better since I feel I could be doing something better but don't know what. There are a lot of copy + pasting and repetitive actions I perform, such as adjusting the height and width of elements for every `@media` query. From my experience, if you do the same thing multiple times, there is a better and faster way to do it. I'm wondering if that's the case here. Let me know your thoughts. Other than that, the HTML and CSS layout went pretty smooth as there were no complicated multi-layout designs. The problem came mainly from the uneven <button> alignment.
 
 ## Author
 
